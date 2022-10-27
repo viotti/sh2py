@@ -1,5 +1,15 @@
 # sh2py
 
+‌
+‌
+‌
+
+‌
+<b>!!! DEPRECATION NOTICE: this project is discontinued. Use <a href="https://github.com/google/python-fire">Python Fire</a> instead</b> !!!
+
+‌
+
+‌
 sh2py is a shell to Python command line mapper. In other words, it is the
 easiest way to expose Python functions to the shell. Main features:
 
